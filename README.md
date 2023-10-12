@@ -1,5 +1,13 @@
 # tRPC Opentracing Jaeger Plugin
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/trpc-ecosystem/go-opentracing-jaeger.svg)](https://pkg.go.dev/github.com/trpc-ecosystem/go-opentracing-jaeger)
+[![Go Report Card](https://goreportcard.com/badge/github.com/trpc.group/trpc-go/trpc-opentracing-jaeger)](https://goreportcard.com/report/github.com/trpc.group/trpc-go/trpc-opentracing-jaeger)
+[![LICENSE](https://img.shields.io/github/license/trpc-ecosystem/go-opentracing-jaeger.svg?style=flat-square)](https://github.com/trpc-ecosystem/go-opentracing-jaeger/blob/main/LICENSE)
+[![Releases](https://img.shields.io/github/release/trpc-ecosystem/go-opentracing-jaeger.svg?style=flat-square)](https://github.com/trpc-ecosystem/go-opentracing-jaeger/releases)
+[![Docs](https://img.shields.io/badge/docs-latest-green)](http://test.trpc.group.woa.com/docs/)
+[![Tests](https://github.com/trpc-ecosystem/go-opentracing-jaeger/actions/workflows/prc.yaml/badge.svg)](https://github.com/trpc-ecosystem/go-opentracing-jaeger/actions/workflows/prc.yaml)
+[![Coverage](https://codecov.io/gh/trpc-ecosystem/go-opentracing-jaeger/branch/main/graph/badge.svg)](https://app.codecov.io/gh/trpc-ecosystem/go-opentracing-jaeger/tree/main)
+
 ## Jaeger Local Installation
 
 #### 1. Download Jaeger according to your OS
