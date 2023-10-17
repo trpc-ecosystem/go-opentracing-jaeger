@@ -7,8 +7,8 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/stretchr/testify v1.8.0
 	github.com/uber/jaeger-client-go v2.21.1+incompatible
-	trpc.group/trpc-go/trpc-go v0.0.0-20230824091938-4699a10e2f35
-	trpc.group/trpc/trpc-protocol/pb/go/trpc v0.0.0-20230803031059-de4168eb5952
+	trpc.group/trpc-go/trpc-go v1.0.0
+	trpc.group/trpc/trpc-protocol/pb/go/trpc v1.0.0
 )
 
 require (
